@@ -1,0 +1,157 @@
+{
+  "manifestVersion": 202606190033,
+  "updatedAt": "2026-06-19T00:33:37.750051",
+  "districts": [
+    {
+      "name": "Ampara",
+      "file": "ampara.db",
+      "version": "202606190033",
+      "rowCount": 39
+    },
+    {
+      "name": "Anuradhapura",
+      "file": "anuradhapura.db",
+      "version": "202606190033",
+      "rowCount": 42
+    },
+    {
+      "name": "Badulla",
+      "file": "badulla.db",
+      "version": "202606190033",
+      "rowCount": 86
+    },
+    {
+      "name": "Batticaloa",
+      "file": "batticaloa.db",
+      "version": "202606190033",
+      "rowCount": 35
+    },
+    {
+      "name": "Colombo",
+      "file": "colombo.db",
+      "version": "202606190033",
+      "rowCount": 52
+    },
+    {
+      "name": "Galle",
+      "file": "galle.db",
+      "version": "202606190033",
+      "rowCount": 36
+    },
+    {
+      "name": "Gampaha",
+      "file": "gampaha.db",
+      "version": "202606190033",
+      "rowCount": 47
+    },
+    {
+      "name": "Hambantota",
+      "file": "hambantota.db",
+      "version": "202606190033",
+      "rowCount": 41
+    },
+    {
+      "name": "Jaffna",
+      "file": "jaffna.db",
+      "version": "202606190033",
+      "rowCount": 38
+    },
+    {
+      "name": "Kalutara",
+      "file": "kalutara.db",
+      "version": "202606190033",
+      "rowCount": 47
+    },
+    {
+      "name": "Kandy",
+      "file": "kandy.db",
+      "version": "202606190033",
+      "rowCount": 45
+    },
+    {
+      "name": "Kegalle",
+      "file": "kegalle.db",
+      "version": "202606190033",
+      "rowCount": 75
+    },
+    {
+      "name": "Kilinochchi",
+      "file": "kilinochchi.db",
+      "version": "202606190033",
+      "rowCount": 13
+    },
+    {
+      "name": "Kurunegala",
+      "file": "kurunegala.db",
+      "version": "202606190033",
+      "rowCount": 53
+    },
+    {
+      "name": "Mannar",
+      "file": "mannar.db",
+      "version": "202606190033",
+      "rowCount": 18
+    },
+    {
+      "name": "Matale",
+      "file": "matale.db",
+      "version": "202606190033",
+      "rowCount": 69
+    },
+    {
+      "name": "Matara",
+      "file": "matara.db",
+      "version": "202606190033",
+      "rowCount": 40
+    },
+    {
+      "name": "Monaragala",
+      "file": "monaragala.db",
+      "version": "202606190033",
+      "rowCount": 24
+    },
+    {
+      "name": "Mullaitivu",
+      "file": "mullaitivu.db",
+      "version": "202606190033",
+      "rowCount": 20
+    },
+    {
+      "name": "Nuwara Eliya",
+      "file": "nuwara_eliya.db",
+      "version": "202606190033",
+      "rowCount": 71
+    },
+    {
+      "name": "Polonnaruwa",
+      "file": "polonnaruwa.db",
+      "version": "202606190033",
+      "rowCount": 44
+    },
+    {
+      "name": "Puttalam",
+      "file": "puttalam.db",
+      "version": "202606190033",
+      "rowCount": 29
+    },
+    {
+      "name": "Ratnapura",
+      "file": "ratnapura.db",
+      "version": "202606190033",
+      "rowCount": 82
+    },
+    {
+      "name": "Trincomalee",
+      "file": "trincomalee.db",
+      "version": "202606190033",
+      "rowCount": 32
+    },
+    {
+      "name": "Vavuniya",
+      "file": "vavuniya.db",
+      "version": "202606190033",
+      "rowCount": 11
+    }
+  ],
+  "lastUpdated": "2026-06-18T19:03:37Z"
+}
